@@ -1,4 +1,3 @@
-
 /*
   Created: September 2012
   (c) 2012 by ihsan Kehribar <ihsan@kehribar.me>
@@ -318,6 +317,5 @@ int micronucleus_startApp(micronucleus* deviceHandle) {
   else
     return 0;
 }
-
 
 
